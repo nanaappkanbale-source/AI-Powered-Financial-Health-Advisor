@@ -1,0 +1,9 @@
+[
+  "backend/tests/test_api.py::test_ai_advice_endpoint",
+  "backend/tests/test_api.py::test_credit_score_history_and_overview",
+  "backend/tests/test_api.py::test_dashboard_api",
+  "backend/tests/test_api.py::test_financial_profile_and_recalculations",
+  "backend/tests/test_api.py::test_loans_creation_and_auto_sync",
+  "backend/tests/test_api.py::test_unit_calculations",
+  "backend/tests/test_api.py::test_user_registration_and_login"
+]
